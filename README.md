@@ -1,4 +1,6 @@
 #Welcome to the Windows Bridge for iOS project preview
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FWinObjC.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FWinObjC?ref=badge_shield)
+
 
 ##What is WinObjC?
 Windows Bridge for iOS (also referred to as WinObjC) is a Microsoft open source project that provides an Objective-C development environment for Visual Studio/Windows. In addition, WinObjC provides support for iOS API compatibility.
@@ -90,3 +92,7 @@ If you have any questions, we're listening and will do our best to help. Just go
 - msvc/ : Visual Studio integration files
 - samples/ : Assorted samples
 - tools/ : Source code to tools
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FWinObjC.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FWinObjC?ref=badge_large)
